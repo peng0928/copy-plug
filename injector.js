@@ -40,11 +40,6 @@
     return originalStopPropagation.call(this);
   };
 
-  // 4. 移除已存在的事件监听器
-  document.querySelectorAll('body, html, *').forEach(el => {
-    const clone = el.cloneNode(true);
-    el.parentNode?.replaceChild(clone, el);
-  });
 
   // 5. Hook execCommand
   const originalExecCommand = document.execCommand;

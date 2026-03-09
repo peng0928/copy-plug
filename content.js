@@ -48,7 +48,7 @@
 
     removeNotification();
     // 重新加载页面以清除 hook
-    window.location.reload();
+    // window.location.reload();
     isInjected = false;
   }
 
