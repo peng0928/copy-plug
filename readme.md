@@ -18,4 +18,4 @@
 
 ## 🚀 安装方法
 
-[下载地址](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+[下载地址](https://github.com/peng0928/copy-plug/releases/download/v1.0/free-copy.zip)
