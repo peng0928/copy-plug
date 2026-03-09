@@ -19,3 +19,8 @@
 ## 🚀 安装方法
 
 [下载地址](https://github.com/peng0928/copy-plug/releases/download/v1.0/free-copy.zip)
+## 安装步骤
+下载完成后进行解压，在浏览器的拓展中心进行安装
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/82cb37062c0247a2b5526485f593ed74.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3245a1a7f85c4a6392b13ea61e748ba4.png)
+安装完成，在页面 `Ctrl+E` 快速开启，出现这个就是成功了。![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e8ac0152778f4ce78446a65e25ddd186.png)
